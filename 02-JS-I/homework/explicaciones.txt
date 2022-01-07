@@ -1,0 +1,5 @@
+Variables: son cajas donde podemos almacer todo tipo de datos
+Strings: significa cadenas del inglés y en este caso son las palabras o bloques de texto
+Funciones (argumentos, return): las funciones son utiles para evitar repetir codigo, los argumentos son los datos que le pasamos a las funciones y return es cuando queremos devolver un valor.
+Declaraciones if: las declaraciones if nos sirven para saber si el codigo que escribimos funciona de una forma(true) o funciona de otra (false) 
+Valores booleanos (true, false) : los valores booleanos son cuando declaramos si algo es cierto o falso por ejemplo el 1 es un numero por lo tanto es verdadero eso quiere decir si preguntamos si es un string el sistema nos va a decir false ya que no es una cadena de caracteres
