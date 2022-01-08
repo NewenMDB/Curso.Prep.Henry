@@ -1,0 +1,1 @@
+Arrays : los arrays son como las variables , pero como si fueran cajas mas grandes donde se puede almacenar mucha mas información y de todo tipo , en las variables solo se permite un tipo de dato. 
