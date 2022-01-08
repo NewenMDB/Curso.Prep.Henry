@@ -1,0 +1,6 @@
+for: el bucle for es como el comienzo de una carrera, en primer lugar tenemos el valor inicial, luego tendremos la expresion condicional que continuara hasta que llegue al numero maximo establecido, a medida que la condición aumenta se van agregando vueltas hasta que termine , es decir hasta que la condición sea falsa.  
+
+Operadores lógicos 
+&& (operador AND lógico) : esto nos indica que nuestro resultado puede ser verdadero si comparamos dos elementos , como por ejemplo " 1 && 1 " nuestro resultado es verdadero ya que ambos son iguales, en caso contrario sería falso o si alguno de ellos es falso.
+ || (Operador OR lógico): en este caso nuestro resultado es verdadero si uno de los elementos es verdadero 
+! : (Operador NOT lógico ): Devuelve false si su único operando se puede convertir a true; de lo contrario, devuelve true.
