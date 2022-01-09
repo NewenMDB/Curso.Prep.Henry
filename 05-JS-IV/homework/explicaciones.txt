@@ -1,0 +1,7 @@
+Objetos: los objetos son una versión mejorada de las listas pero nos sirven para crear moldes de las cosas, por ejemplo podemos crear un objeto de nombre perro y darle un nombre y una raza
+Propiedades: las propiedades son cada una de las caractersticas que tiene nuestro objeto
+Métodos: a través de los métodos podemos decirle a nuestros objetos que hagan algo por ejemplo, al perro le podemos agregar un metodo que sea ladrar y cada vez que llamemos al perro va a ladrar 
+Bucle for…in : nos sirven para que podamos ver toda la lista de las caracteristicas que tiene nuestro objeto por ejemplo el perro, si utilizamos for in nos va a dar como resultado la clave y el valor , que serían nombre: toby , raza: pastor aleman .
+Notación de puntos vs notación de corchetes: nos sirven para buscar propiedades de un objeto
+la notación de puntos: no puede comenzar con un numero para buscar
+la notación de corchetes: puede ser cualquier elemento para empezar 
